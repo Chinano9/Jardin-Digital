@@ -10,4 +10,4 @@ Si quieres leer, adelante, eres bienvenido.
 
 ## Entradas recientes
 * [[La deportificación y comercialización de la música en la actualidad]]
-*
+* [[teoria-sweetspot]]
