@@ -1,3 +1,60 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+@media print {
+  img,
+  figure,
+  pre,
+  blockquote,
+  table {
+    break-inside: avoid;
+    page-break-inside: avoid; /* Para navegadores viejos */
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  p {
+    orphans: 3; /* Mínimo 3 líneas juntas abajo */
+    widows: 3; /* Mínimo 3 líneas juntas arriba */
+  }
+  .page-header,
+  .page-footer,
+  footer,
+  .explorer,
+  .graph-view-container,
+  .backlinks,
+  .sidebar {
+    display: none !important;
+  }
+
+  /* Asegurar que el contenido use todo el ancho */
+  .center,
+  article {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Evitar cortes feos dentro de párrafos o bloques de código */
+  p,
+  pre,
+  blockquote {
+    break-inside: avoid;
+  }
+}

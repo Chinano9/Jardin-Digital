@@ -106,7 +106,7 @@ $$
 
 ## Analisis
 
-En la actual carrera por la supremacía de la IA, existe una tendencia industrial a **sobre-alinear** los modelos (mediante RLHF) para minimizar errores y alucinaciones. El objetivo es forzar al modelo a permanecer perpetuamente en la **"Zona Verde"**. Si bien esto es ideal para tareas de alta precisión (programación, medicina), tiene un costo oculto: la **asepsia creativa**. Un modelo que nunca se arriesga, nunca innova. Son sistemáticos, pero estériles.
+Actualmente, la industria tiende a sobre-alinear los modelos (mediante RLHF) para erradicar cualquier alucinación, forzándolos a vivir perpetuamente en la **Zona Verde**. Si bien esta rigidez es vital para tareas críticas como la medicina o la programación, pagamos un precio alto: la asepsia creativa. Un modelo que no corre riesgos es incapaz de innovar; se vuelve funcional, pero estéril.
 
 Por otro lado, cuando un modelo especializado se enfrenta a una tarea fuera de su **distribución de entrenamiento** (Out-of-Distribution), el estrés probabilístico se dispara.
 
