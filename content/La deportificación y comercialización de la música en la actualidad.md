@@ -31,7 +31,7 @@ Si la hiper-técnica es un extremo del vacío artístico, el otro es la estétic
 
 Movimientos como el [[Black Metal]] o el [[Punk]], que nacieron para desafiar al sistema, hoy corren el riesgo de convertirse en caricaturas. Es cierto que la oscuridad y la incomodidad son herramientas artísticas válidas, tal y como lo demostraron las pinturas del [[Romanticismo]] al retratar el horror para denunciar una realidad histórica. Sin embargo, gran parte del metal extremo actual ha olvidado el "para qué". Bandas como *Devourment* cruzan la línea hacia lo grotesco sin una tesis detrás; ya no es una crítica social, es el equivalente a un niño gritando palabrotas para llamar la atención. La intención no es artística, es puramente "[[edgy]]": impactar por impactar.
 
-Este fenómeno de "rebeldía de aparador" se extiende a la ideología. En el Punk moderno, a menudo confundimos la conciencia de clase con la apropiación. Es necesario tener empatía y entender las desigualdades, pero es hipócrita adoptar la estética de la pobreza desde una posición de privilegio solo para ganar credibilidad callejera. Vestirse de proletario mientras se disfruta de las comodidades del sistema que se critica no es rebeldía, es turismo de clase.
+Este fenómeno de "rebeldía de aparador" se extiende a la ideología. En el Punk moderno, a menudo confundimos la [[Conciencia de Clase]] con la apropiación. Es necesario tener empatía y entender las desigualdades, pero es hipócrita adoptar la estética de la pobreza desde una posición de privilegio solo para ganar credibilidad callejera. Vestirse de proletario mientras se disfruta de las comodidades del sistema que se critica no es rebeldía, es turismo de clase.
 
 ## Conclusión
 

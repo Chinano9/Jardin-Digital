@@ -33,7 +33,16 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Explorador",
+      filterFn: (node) => {
+        return (
+          node.displayName.toLowerCase() !== "tags" &&
+          node.displayName.toLowerCase() !== "conceptos" &&
+          node.displayName !== "Conceptos"
+        )
+      },
+    }),
   ],
   right: [
     Component.Graph(),

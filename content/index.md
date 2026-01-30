@@ -20,3 +20,4 @@ Ensayos críticos y análisis de mis lecturas.
 ## 🧠 Disertaciones (Blog)
 Ideas sueltas sin mucho filtro.
 * [[bloqueo-creativo|No se escribir canciones]]
+* [[productividad-toxica|Productividad Toxica]]
