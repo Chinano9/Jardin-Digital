@@ -55,7 +55,7 @@ Finalmente, hay que señalar el punto ciego más grande de *Demian*: su nula [[C
 
 El tratamiento del amor marca la diferencia definitiva entre la inmadurez de *Demian* y la sabiduría de *Siddhartha*. Sinclair no se relaciona con mujeres; se relaciona con proyecciones de su propia mente.
 
-Sus "grandes amores", Beatriz y Frau Eva, son [[Arquetipos (Jung)|Arquetipos]] vacíos diseñados para que él se mire el ombligo. A Beatriz la reduce a un lienzo: la observa obsesivamente sin cruzar una palabra, la deshumaniza hasta convertirla en una imagen que, irónicamente, termina pareciéndose a Demian (y a él mismo). **Sinclair no se enamora de ella; se enamora de su propia creación.**
+Sus "grandes amores", Beatriz y Frau Eva, son [[Arquetipo|Arquetipos]] vacíos diseñados para que él se mire el ombligo. A Beatriz la reduce a un lienzo: la observa obsesivamente sin cruzar una palabra, la deshumaniza hasta convertirla en una imagen que, irónicamente, termina pareciéndose a Demian (y a él mismo). **Sinclair no se enamora de ella; se enamora de su propia creación.**
 
 Con Frau Eva, la situación es aún más perturbadora. Lejos de verla como una mujer completa, Sinclair la idealiza como un refugio materno mistificado. Su obsesión es puramente freudiana: no busca una pareja, busca el "calor del seno", una regresión edípica disfrazada de destino espiritual. Sinclair no quiere conocer a Eva; quiere ser absorbido por ella.
 

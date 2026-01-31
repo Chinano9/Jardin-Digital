@@ -38,6 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
       filterFn: (node) => {
         return (
           node.displayName.toLowerCase() !== "tags" &&
+          node.displayName.toLowerCase() !== "libros" &&
           node.displayName.toLowerCase() !== "conceptos" &&
           node.displayName !== "Conceptos"
         )
