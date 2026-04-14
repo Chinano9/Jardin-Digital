@@ -16,5 +16,3 @@ En *[[Demian]]*, Sinclair no interactúa con personas reales, sino con proyeccio
 * **Frau Eva:** No es una mujer de carne y hueso, es el arquetipo de la **Gran Madre** o el Ánima (la parte femenina del alma masculina).
 * **Demian:** Actúa como el arquetipo del **Self** (el Sí-mismo) o guía espiritual.
 * **Kromer:** Representa la **[[Sombra (Arquetipo)|Sombra]]**.
-
-El problema de Sinclair, según tu crítica, es que confunde estos símbolos internos con la realidad externa.
