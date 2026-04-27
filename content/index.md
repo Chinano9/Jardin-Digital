@@ -6,8 +6,10 @@ Aquí es donde subo mis ensayos, ideas (a veces un poco locas) y todo tipo de co
 
 Si quieres leer, adelante, eres bienvenido.
 
-## Recientes:
+## ⏲ Recientes
+* [[amamos-sufrir|¿Por qué nos encanta sufrir?]] (2026-04-27)
 * [[envio-intergalactico|¿Qué enviaría al espacio?]] (2026-04-13)
+
 
 ## 🛠️ Ingeniería & Proyectos
 Aquí documento mi proceso técnico y desarrollo de software.
@@ -22,6 +24,5 @@ Ensayos críticos y análisis de mis lecturas.
 
 ## 🧠 Disertaciones (Blog)
 Ideas sueltas sin mucho filtro.
-* [[bloqueo-creativo|No se escribir canciones]]
-* [[productividad-toxica|Productividad Toxica]]
 * [[envio-intergalactico|¿Qué enviaría al espacio?]]
+* [[amamos-sufrir|¿Por qué nos encanta sufrir?]]
