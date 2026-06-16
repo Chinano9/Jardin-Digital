@@ -58,6 +58,12 @@
 }
 
 body[data-slug*="terminal" i] {
+  .page > #quartz-body {
+    grid-template: "grid-sidebar-left grid-header grid-sidebar-right" "grid-sidebar-left grid-center grid-sidebar-right" "grid-sidebar-left grid-footer grid-sidebar-right"/320px auto 320px;
+    gap: 5px;
+    display: flex;
+  }
+
   .left.sidebar,
   .right.sidebar,
   .content-meta,
@@ -77,13 +83,45 @@ body[data-slug*="terminal" i] {
   .center {
     margin: 0 auto !important;
     width: 100% !important;
-    max-width: 700px !important;
+
+    // DISEÑO MÓVIL (Por defecto)
     padding: 1.5rem 1rem !important;
+
+    // DISEÑO ESCRITORIO
+    @media (min-width: 768px) {
+      max-width: 750px !important;
+      padding: 3rem 0 !important;
+    }
+    @media (min-width: 1000px) {
+      max-width: 40vw !important;
+      padding: 3rem 0 !important;
+    }
   }
 
   article {
+    width: 100% !important; // Siempre abarca todo el espacio que le da .center
+    max-width: none !important;
     font-family: "Lora", "Merriweather", Georgia, serif !important;
+
+    // Tipografía Móvil (Un poco más compacta)
     font-size: 1.15rem !important;
-    line-height: 1.8 !important;
+    line-height: 1.6 !important;
+
+    // Tipografía Escritorio (Más grande y con más aire)
+    @media (min-width: 768px) {
+      font-size: 1.25rem !important;
+      line-height: 1.8 !important;
+    }
+
+    p,
+    h1,
+    h2,
+    h3,
+    ul,
+    ol,
+    blockquote {
+      max-width: 100% !important;
+      width: 100% !important;
+    }
   }
 }
