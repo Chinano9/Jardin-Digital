@@ -29,8 +29,8 @@
   }
 
   p {
-    orphans: 3; /* Mínimo 3 líneas juntas abajo */
-    widows: 3; /* Mínimo 3 líneas juntas arriba */
+    orphans: 3;
+    widows: 3;
   }
   .page-header,
   .page-footer,
@@ -42,7 +42,6 @@
     display: none !important;
   }
 
-  /* Asegurar que el contenido use todo el ancho */
   .center,
   article {
     width: 100% !important;
@@ -51,7 +50,6 @@
     padding: 0 !important;
   }
 
-  /* Evitar cortes feos dentro de párrafos o bloques de código */
   p,
   pre,
   blockquote {
@@ -60,7 +58,6 @@
 }
 
 body[data-slug*="terminal" i] {
-  // 1. Asesinamos las barras laterales y metadatos
   .left.sidebar,
   .right.sidebar,
   .content-meta,
@@ -71,22 +68,19 @@ body[data-slug*="terminal" i] {
     display: none !important;
   }
 
-  // 2. Centrado infalible
   .page {
     display: flex !important;
     justify-content: center !important;
     width: 100% !important;
   }
 
-  // 3. El respiro del texto (Centrado perfecto y sin huecos exagerados)
   .center {
     margin: 0 auto !important;
     width: 100% !important;
-    max-width: 700px !important; // Medida exacta para que no quede ni muy hilito ni muy expandido
-    padding: 1.5rem 1rem !important; // Matamos el exceso de espacio arriba. 1.5rem es suficiente aire.
+    max-width: 700px !important;
+    padding: 1.5rem 1rem !important;
   }
 
-  // 4. Toque literario
   article {
     font-family: "Lora", "Merriweather", Georgia, serif !important;
     font-size: 1.15rem !important;
