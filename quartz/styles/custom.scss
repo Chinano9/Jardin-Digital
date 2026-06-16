@@ -59,8 +59,7 @@
 
 body[data-slug*="terminal" i] {
   .page > #quartz-body {
-    grid-template: "grid-sidebar-left grid-header grid-sidebar-right" "grid-sidebar-left grid-center grid-sidebar-right" "grid-sidebar-left grid-footer grid-sidebar-right"/320px auto 320px;
-    gap: 5px;
+    box-sizing: border-box !important;
     display: flex;
   }
 
@@ -78,11 +77,13 @@ body[data-slug*="terminal" i] {
     display: flex !important;
     justify-content: center !important;
     width: 100% !important;
+    overflow-x: hidden !important;
   }
 
   .center {
     margin: 0 auto !important;
     width: 100% !important;
+    box-sizing: border-box !important;
 
     // DISEÑO MÓVIL (Por defecto)
     padding: 1.5rem 1rem !important;
@@ -99,9 +100,10 @@ body[data-slug*="terminal" i] {
   }
 
   article {
-    width: 100% !important; // Siempre abarca todo el espacio que le da .center
+    width: 100% !important;
     max-width: none !important;
     font-family: "Lora", "Merriweather", Georgia, serif !important;
+    box-sizing: border-box !important;
 
     // Tipografía Móvil (Un poco más compacta)
     font-size: 1.15rem !important;
