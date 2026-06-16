@@ -9,65 +9,88 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer(),
 }
 
-// components for pages that display a single page (e.g. a single note)
+// Hacemos la función más robusta para evitar problemas de espacios o guiones
+const isAntologia = (page: any) => {
+  const slug = page.fileData.slug?.toLowerCase() ?? ""
+  return slug.includes("terminal")
+}
+
+// 1. LAYOUT DE CONTENIDO (Para los cuentos individuales: la-mujer.md)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "index" && !isAntologia(page),
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    Component.ContentMeta(), // Lo regresé, si no lo quieres en cuentos, mételo en un ConditionalRender
+    Component.ConditionalRender({
+      component: Component.TagList(),
+      condition: (page) => !isAntologia(page),
+    }),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.Search(), grow: true },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      title: "Explorador",
-      filterFn: (node) => {
-        return (
-          node.displayName.toLowerCase() !== "tags" &&
-          node.displayName.toLowerCase() !== "libros" &&
-          node.displayName.toLowerCase() !== "conceptos" &&
-          node.displayName !== "Conceptos"
-        )
-      },
+    Component.ConditionalRender({
+      component: Component.Explorer({
+        title: "Explorador",
+        filterFn: (node) => {
+          return (
+            node.displayName.toLowerCase() !== "tags" &&
+            node.displayName.toLowerCase() !== "libros" &&
+            node.displayName.toLowerCase() !== "conceptos" &&
+            node.displayName !== "Conceptos"
+          )
+        },
+      }),
+      condition: (page) => !isAntologia(page),
     }),
   ],
   right: [
-    Component.Graph(),
+    Component.ConditionalRender({
+      component: Component.Graph(),
+      condition: (page) => !isAntologia(page),
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.ConditionalRender({
+      component: Component.Backlinks(),
+      condition: (page) => !isAntologia(page),
+    }),
   ],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
+// 2. LAYOUT DE LISTAS (Para el index.md de la carpeta La terminal)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      condition: (page) => !isAntologia(page),
+    }),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
+        { Component: Component.Search(), grow: true },
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    // AQUÍ FALTABA OCULTAR EL EXPLORADOR EN LA VISTA DE CARPETA
+    Component.ConditionalRender({
+      component: Component.Explorer(),
+      condition: (page) => !isAntologia(page),
+    }),
   ],
   right: [],
 }

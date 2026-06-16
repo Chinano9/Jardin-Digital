@@ -58,3 +58,38 @@
     break-inside: avoid;
   }
 }
+
+body[data-slug*="terminal" i] {
+  // 1. Asesinamos las barras laterales y metadatos
+  .left.sidebar,
+  .right.sidebar,
+  .content-meta,
+  .page-listing,
+  .section-ul,
+  .folder-outer,
+  footer {
+    display: none !important;
+  }
+
+  // 2. Centrado infalible
+  .page {
+    display: flex !important;
+    justify-content: center !important;
+    width: 100% !important;
+  }
+
+  // 3. El respiro del texto (Centrado perfecto y sin huecos exagerados)
+  .center {
+    margin: 0 auto !important;
+    width: 100% !important;
+    max-width: 700px !important; // Medida exacta para que no quede ni muy hilito ni muy expandido
+    padding: 1.5rem 1rem !important; // Matamos el exceso de espacio arriba. 1.5rem es suficiente aire.
+  }
+
+  // 4. Toque literario
+  article {
+    font-family: "Lora", "Merriweather", Georgia, serif !important;
+    font-size: 1.15rem !important;
+    line-height: 1.8 !important;
+  }
+}
