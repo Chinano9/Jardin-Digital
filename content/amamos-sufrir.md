@@ -12,7 +12,7 @@ A lo que derivó la pregunta del título. ¿Por qué nos encanta sufrir?
 
 ## La catarsis
 
-En el cine, la música y las artes en general, se suele retratar el amor, ya sea romántico, fraternal o [[Amor Platónico|platónico]] como algo doloroso, y disfrutamos de esto, el drama y la tragedia nos lleva acompañando desde las tragedias griegas y seguirán con nosotros hasta el fin de los tiempos.
+En el cine, la música y las artes en general, se suele retratar el amor, ya sea romántico, fraternal o platónico como algo doloroso, y disfrutamos de esto, el drama y la tragedia nos lleva acompañando desde las tragedias griegas y seguirán con nosotros hasta el fin de los tiempos.
 
 No obstante, esa necesidad de sacar nuestro dolor no viene por defecto instalado en nuestro cerebro, es algo que adquirimos cuando sangramos. Cuando eres un pequeñín, no entiendes la magnitud de lo que te une a las personas, y no es que no te duela la separación, es que tienes una elasticidad emocional envidiable. Un día lloras porque tu amigo íntimo dejó de ir a clases, pero al siguiente tu atención es secuestrada por el nuevo capitulo de Dragon Ball. No te quedas rumiando el dolor ni le escribes narrativas a la tragedia; para ti solo hay cambios de escenario. Pero al crecer, perdemos esa elasticidad. Los vínculos echan raíces, y arrancarlos te deja en carne viva. Como ya no tenemos la facilidad de crear y romper sin salir lastimados, necesitamos un simulacro.
 
@@ -26,13 +26,13 @@ Y justamente ahí está la trampa. En estas historias de ficción nos convencen 
 
 ## La trampa del ego
 
-Cuando la pantalla se apaga y aterrizamos en la vida real, el sufrimiento deja de ser catártico y se vuelve una cárcel. Pero aquí no podemos culpar más a las películas. Aquí quien nos daña somos nosotros mismos y nuestra terquedad: nuestro [[Ego|ego]].
+Cuando la pantalla se apaga y aterrizamos en la vida real, el sufrimiento deja de ser catártico y se vuelve una cárcel. Pero aquí no podemos culpar más a las películas. Aquí quien nos daña somos nosotros mismos y nuestra terquedad: nuestro ego.
 
 Compramos tan bien la mentira de que el amor es sacrificio, que cuando la relación nos empieza a destruir, nos negamos a soltarla. Nuestro orgullo no soporta la idea de haberse equivocado. Admitir que ese caos no es "romance" épico, sino simple y llano daño, significa aceptar que hemos estado sufriendo por nada.
 
 Así que nos convertimos en los arquitectos de nuestra propia tragedia. En lugar de irnos, nos ponemos el traje de mártires. Empezamos a llevar un conteo silencioso de todo lo que soportamos, convenciéndonos de que aguantar lo inaguantable nos da valor. Confundimos la paciencia con la sumisión. Nos aferramos a la fantasía de que nuestra devoción eventualmente arreglará a la otra persona, porque si nos rendimos ahora, ¿de qué sirvieron todos esos meses o años de desgaste emocional? Al final, muchas veces no nos quedamos por amor al otro, nos quedamos por no herir nuestro propio orgullo.
 
-Pero este autosabotaje no es un monólogo; es una danza de a dos. Mientras el [[Ego|ego]] nos obliga a no rendirnos, nuestra propia falta de autoestima entra a rematar el trabajo.
+Pero este autosabotaje no es un monólogo; es una danza de a dos. Mientras el ego nos obliga a no rendirnos, nuestra propia falta de autoestima entra a rematar el trabajo.
 
 Aquí es donde ocurre una de las distorsiones más crueles de nuestras relaciones, la idealización.
 
@@ -46,7 +46,7 @@ Criticar la trampa del sufrimiento no es un ataque al romance. El amor es hermos
 
 El amor sano esconde una paradoja maravillosa: es sentir la necesidad absoluta e irracional de cruzar cualquier tormenta y enfrentar cualquier dragón por esa persona, acompañada de la inmensa tranquilidad de saber que, si te ama con la misma intensidad, jamás te exigirá que te mojes ni te quemes solo para demostrar que puedes hacerlo. Las grandes hazañas de "Disney" las haces porque te nacen, por puro deseo, no porque sean una cuota de lealtad que debes pagar. El caos, por supuesto, a veces es inevitable; es una chispa espontánea que le da vértigo y color a la vida. Pero una cosa es disfrutar del calor de la fogata, y otra muy distinta es creer que para estar enamorados tenemos que vivir dentro del incendio.
 
-Todos hemos escuchado hasta el cansancio la frase "para amar a los demás primero debes aprender a amarte a ti mismo", pero solemos malentenderla. No se trata de un amor propio narcisista, ni de estar siempre feliz con tu reflejo; se trata de [[Introspección|autoconocimiento]] y de saber trazar límites. Es tener el respeto suficiente por ti mismo para reconocer cuándo un conflicto en pareja es un simple "bache" y cuándo se ha convertido en una rutina que te consume. Para poder amar de verdad, primero hay que saber diferenciar entre el dolor inevitable que conlleva compartir tu vida con alguien, y el daño que toleramos simplemente porque nos acostumbramos a él.
+Todos hemos escuchado hasta el cansancio la frase "para amar a los demás primero debes aprender a amarte a ti mismo", pero solemos malentenderla. No se trata de un amor propio narcisista, ni de estar siempre feliz con tu reflejo; se trata de autoconocimiento y de saber trazar límites. Es tener el respeto suficiente por ti mismo para reconocer cuándo un conflicto en pareja es un simple "bache" y cuándo se ha convertido en una rutina que te consume. Para poder amar de verdad, primero hay que saber diferenciar entre el dolor inevitable que conlleva compartir tu vida con alguien, y el daño que toleramos simplemente porque nos acostumbramos a él.
 
 ---
 
