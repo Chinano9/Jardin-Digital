@@ -6,10 +6,8 @@ Aquí es donde subo mis ensayos, ideas (a veces un poco locas) y todo tipo de co
 
 Si quieres leer, adelante, eres bienvenido.
 
-## ⏲ Recientes
-* [[amamos-sufrir|¿Por qué nos encanta sufrir?]] (2026-04-27)
-* [[envio-intergalactico|¿Qué enviaría al espacio?]] (2026-04-13)
-
+## La terminal
+Si quieres leer mis cuentos, adelante, empieza por el indice de [[la-terminal|La terminal]].
 
 ## 🛠️ Ingeniería & Proyectos
 Aquí documento mi proceso técnico y desarrollo de software.
@@ -26,3 +24,9 @@ Ensayos críticos y análisis de mis lecturas.
 Ideas sueltas sin mucho filtro.
 * [[envio-intergalactico|¿Qué enviaría al espacio?]]
 * [[amamos-sufrir|¿Por qué nos encanta sufrir?]]
+
+## El duelo
+Esta seccion es un poco diferente, es un poco mas privada. Aqui me estarias viendo al desnudo asi que... con un poco de pudor, ¿quieres?
+* [[los-zapatos|La caja de zapatos]] (2026-07-25)
+* [[sale-el-sol|Mañana sale el sol]] (2026-07-16)
+* [[no-se-escribir|La mentira de ser creativo]] (2026-05-12)
