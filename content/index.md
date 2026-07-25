@@ -30,3 +30,4 @@ Esta seccion es un poco diferente, es un poco mas privada. Aqui me estarias vien
 * [[los-zapatos|La caja de zapatos]] (2026-07-25)
 * [[sale-el-sol|Mañana sale el sol]] (2026-07-16)
 * [[no-se-escribir|La mentira de ser creativo]] (2026-05-12)
+* [[superviviente-funcional|Superviviente funcional]] (2026-01-13)
