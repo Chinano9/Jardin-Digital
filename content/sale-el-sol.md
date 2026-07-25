@@ -16,7 +16,7 @@ Pero es que, me puse a analizar, a hacer cuentas. Estoy en un pozo que, es difí
 
 Veo las horas pasar, escucho el clic de el reloj y, con él me doy cuenta que yo mismo me puse en estas circunstancias. haciendo recuento de mis desastres vi que nadie sabe mi situación real. Construí paredes tan gruesas, y selle tan bien las puertas, que ahora me resulta imposible dejar a alguien entrar lo suficientemente profundo. En un principio esos muros me sirvieron, claro. Eran un plan de contingencia, una forma de protegerme del mundo exterior. Pero con el tiempo a las ventanas les crecieron barrotes, y ahora mas que una fortaleza, se asemeja a Alcatraz.
 
-Tengo un ensayo por ahí perdido, que titulé algo así como "[superviviente-funcional|superviviente funcional]". En el etiqueté, categoricé y diseccioné mis traumas, pero ponerle nombre al perro no lo hace menos rabioso, solo sabes quién te clava los dientes.
+Tengo un ensayo por ahí perdido, que titulé algo así como "[[superviviente-funcional|superviviente funcional]]". En el etiqueté, categoricé y diseccioné mis traumas, pero ponerle nombre al perro no lo hace menos rabioso, solo sabes quién te clava los dientes.
 
 Después de escribir aquello, intenté avanzar. Busqué otros espacios, otras distracciones, traté de ser más que mi propio daño, y funcionó por un rato. Sin embargo, aquí estoy de nuevo, en un valle del que me está costando horrores salir. Dicen que es mi culpa. Yo mismo me digo que es mi culpa por mi estúpida idea de que buscar ayuda es convertirme en un estorbo.
 
