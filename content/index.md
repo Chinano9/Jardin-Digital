@@ -24,6 +24,7 @@ Ensayos críticos y análisis de mis lecturas.
 Ideas sueltas sin mucho filtro.
 * [[envio-intergalactico|¿Qué enviaría al espacio?]]
 * [[amamos-sufrir|¿Por qué nos encanta sufrir?]]
+* [[no-soy-ingeniero|No soy ingeniero]]
 
 ## El duelo
 Esta seccion es un poco diferente, es un poco mas privada. Aqui me estarias viendo al desnudo asi que... con un poco de pudor, ¿quieres?
